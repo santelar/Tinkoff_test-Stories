@@ -1,3 +1,5 @@
+https://santelar.github.io/Tinkoff_test-Stories/
+
 # Tinkoff - Stories
 
 Тестовое задание Тинькофф Бизнес - верстка сторис
