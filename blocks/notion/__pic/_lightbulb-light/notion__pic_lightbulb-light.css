@@ -1,0 +1,10 @@
+.notion__pic_lightbulb-light {
+    width: 43px;
+    height: 43px;
+    top: 252px;
+    left: 47px;
+    background-color: #F9D500;
+    border-radius: 50%;
+    filter: blur(8px);
+    z-index: 2;
+}

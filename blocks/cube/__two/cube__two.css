@@ -1,0 +1,8 @@
+.cube__two {
+    position: absolute;
+    background-image: url(../../../images/Cube2.png);
+    top: 376px;
+    left: 203px;
+    width: 114px;
+    height: 104px;
+}

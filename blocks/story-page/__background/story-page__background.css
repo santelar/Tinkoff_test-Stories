@@ -1,0 +1,9 @@
+.story-page__background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgb(3, 27, 94);
+    height: 500px;
+    width: 320px;
+    z-index: -11;
+}

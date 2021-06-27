@@ -1,0 +1,8 @@
+.cube__three_modifiedTwo {
+    height: 90px;
+    width: 90px;
+    background-size: contain;
+    top: 384px;
+    left: 200px;
+    transform: scale(-1, 1);
+}

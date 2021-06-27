@@ -1,0 +1,8 @@
+.cube__two_modifiedFour {
+    top: 288px;
+    left: -38px;
+    width: 165px;
+    height: 165px;
+    background-size: contain;
+    transform: scale(-1, 1);
+}

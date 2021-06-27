@@ -1,0 +1,9 @@
+.cube__two_modifiedFive {
+    top: 143px;
+    left: 189px;
+    width: 145px;
+    height: 145px;
+    background-size: contain;
+    transform: rotate(-42deg) scale(-1, 1);
+    filter: blur(1px);
+}

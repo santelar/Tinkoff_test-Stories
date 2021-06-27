@@ -1,0 +1,6 @@
+.story-page__container {
+    display: flex;
+    flex-direction: column;
+    padding: 41px 25px 15px 25px;
+
+}

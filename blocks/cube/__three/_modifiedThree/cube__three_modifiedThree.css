@@ -1,0 +1,8 @@
+.cube__three_modifiedThree {
+    top: 198px;
+    left: 195px;
+    width: 70px;
+    height: 70px;
+    background-size: contain;
+    transform: rotate(10deg);
+}

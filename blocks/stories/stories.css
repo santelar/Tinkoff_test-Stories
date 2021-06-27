@@ -1,0 +1,22 @@
+.stories {
+    margin: 0 auto;
+    max-width: 1000px;
+    display: grid;
+    grid-template-columns: repeat(3, 320px);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 20px 20px;
+    list-style: none;
+    padding: 0;
+}
+
+@media screen and (max-width: 1130px) {
+    .stories {
+        grid-template-columns: repeat(2, 320px);
+    } 
+}
+
+@media screen and (max-width: 750px) {
+    .stories {
+        grid-template-columns: repeat(1, 320px);
+    } 
+}

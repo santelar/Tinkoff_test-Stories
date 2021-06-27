@@ -1,0 +1,8 @@
+.story-page {
+    position: relative;
+    height: 500px;
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

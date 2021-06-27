@@ -1,0 +1,15 @@
+.story-page__date {
+    width: 91px;
+    height: 21px;
+    background: #FFDD2D;
+    border-radius: 24px;
+    text-align: center;
+    padding-top: 4px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.22;
+    color: #000000;
+
+}

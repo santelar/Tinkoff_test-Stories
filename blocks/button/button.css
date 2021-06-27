@@ -1,0 +1,14 @@
+.button {
+    width: 280px;
+    height: 45px;
+    border: none;
+    border-radius: 26px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 1.2;
+    color: #333333;
+    margin: 15px auto;
+    cursor: pointer;
+}

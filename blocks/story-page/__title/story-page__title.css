@@ -1,0 +1,10 @@
+.story-page__title {
+    margin: 15px 0 10px 0;
+    padding: 0;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 1.16;
+    color: #FFFFFF;
+}

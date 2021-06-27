@@ -1,0 +1,21 @@
+@font-face {
+  src: url(./Montserrat/Montserrat-Black.ttf) format('truetype');
+  font-family: 'Montserrat';
+  font-weight: 900;
+}
+  
+@font-face {
+  src: url(./SFProText/SFProText-Regular.woff2) format('woff2'),
+  url(./SFProText/SFProText-Regular.woff) format('woff'),
+  url(./SFProText/SFProText-Regular.ttf) format('truetype');
+  font-family: 'SFProText';
+  font-weight: normal;
+}
+
+@font-face {
+  src: url(./SFProText/SFProDisplay-Bold.woff2) format('woff2'),
+  url(./SFProText/SFProDisplay-Bold.woff) format('woff'),
+  url(./SFProText/SFProDisplay-Bold.ttf) format('truetype');
+  font-family: 'SFProText';
+  font-weight: bold;
+}

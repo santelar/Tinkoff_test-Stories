@@ -1,0 +1,8 @@
+.cube__four {
+    position: absolute;
+    background-image: url(../../../images/Cube4.png);
+    top: 350px;
+    left: 0px;
+    width: 114px;
+    height: 150px;
+}

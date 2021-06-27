@@ -1,0 +1,8 @@
+.notion {
+    width: 250px;
+    margin: 30px auto 0 auto;
+    background: #FFFFFF;
+    border-radius: 11px;
+    position: relative;
+    display: flex;
+}

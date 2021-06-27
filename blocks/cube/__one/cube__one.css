@@ -1,0 +1,8 @@
+.cube__one {
+    position: absolute;
+    background-image: url(../../../images/Cube1.png);
+    top: 280px;
+    left: 0;
+    width: 90px;
+    height: 80px;
+}

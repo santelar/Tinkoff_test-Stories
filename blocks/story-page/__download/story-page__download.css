@@ -1,0 +1,10 @@
+.story-page__download {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.22;
+    color: #FFDD2D;
+    text-decoration: underline;
+    margin-top: 10px;
+}
